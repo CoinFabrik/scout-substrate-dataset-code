@@ -1,5 +1,7 @@
 # Scout Substrate Dataset Code
 
+![https://img.shields.io/badge/license-MIT-green](https://img.shields.io/badge/license-MIT-green)
+
 This repository contains all the code for the dataset in the https://github.com/CoinFabrik/scout-substrate-dataset repository.
 
 It contains the whole story for all the repositories involved, so you can just checkout the proper revision using its commit hash.
